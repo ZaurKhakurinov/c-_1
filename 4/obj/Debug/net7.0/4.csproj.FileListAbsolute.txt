@@ -1,0 +1,5 @@
+/Users/zaurhakurinov/Desktop/С-1/c-_1/4/obj/Debug/net7.0/4.csproj.AssemblyReference.cache
+/Users/zaurhakurinov/Desktop/С-1/c-_1/4/obj/Debug/net7.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaurhakurinov/Desktop/С-1/c-_1/4/obj/Debug/net7.0/4.AssemblyInfoInputs.cache
+/Users/zaurhakurinov/Desktop/С-1/c-_1/4/obj/Debug/net7.0/4.AssemblyInfo.cs
+/Users/zaurhakurinov/Desktop/С-1/c-_1/4/obj/Debug/net7.0/4.csproj.CoreCompileInputs.cache
