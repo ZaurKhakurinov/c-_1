@@ -7,13 +7,15 @@ int b = int.Parse(Console.ReadLine());
 Console.Write("c:");
 int c = int.Parse(Console.ReadLine());
 max = a;
-if (max > b)
-{ 
-    max > c;
-}max == b;
-If (max > c);
+
+if(a > b); (a > c);
 {
-    Console.WriteLine($"амксимальное значение {max}");
-}max == c;
-    
-Console.WriteLine($"большее значение {max}");
+    Console.WriteLine($"максимальное значение {max}");
+}
+max = b;
+If (b > c);
+{
+      Console.WriteLine($"максимальное значение {max}");
+}
+max = c;
+Console.WriteLine($"максимальное значение {max}");
