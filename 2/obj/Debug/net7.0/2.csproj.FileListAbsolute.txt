@@ -1,0 +1,15 @@
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/bin/Debug/net7.0/2
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/bin/Debug/net7.0/2.deps.json
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/bin/Debug/net7.0/2.runtimeconfig.json
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/bin/Debug/net7.0/2.dll
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/bin/Debug/net7.0/2.pdb
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/obj/Debug/net7.0/2.csproj.AssemblyReference.cache
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/obj/Debug/net7.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/obj/Debug/net7.0/2.AssemblyInfoInputs.cache
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/obj/Debug/net7.0/2.AssemblyInfo.cs
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/obj/Debug/net7.0/2.csproj.CoreCompileInputs.cache
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/obj/Debug/net7.0/2.dll
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/obj/Debug/net7.0/refint/2.dll
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/obj/Debug/net7.0/2.pdb
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/obj/Debug/net7.0/2.genruntimeconfig.cache
+/Users/zaurhakurinov/Desktop/С-1/c-_1/2/obj/Debug/net7.0/ref/2.dll
