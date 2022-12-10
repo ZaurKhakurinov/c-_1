@@ -8,14 +8,23 @@ Console.Write("c:");
 int c = int.Parse(Console.ReadLine());
 max = a;
 
-if(a > b); (a > c);
+if (a > b) (a > c);
 {
     Console.WriteLine($"максимальное значение {max}");
 }
-max = b;
-If (b > c);
-{
-      Console.WriteLine($"максимальное значение {max}");
-}
-max = c;
+    else
+    {
+        {
+            int max = b;
+        }
+    }
+    if (b > c);
+    {
+        Console.WriteLine($"максимальное значение {max}");
+    }            
+        else
+        {
+            int max = c;
+        }
+    
 Console.WriteLine($"максимальное значение {max}");
